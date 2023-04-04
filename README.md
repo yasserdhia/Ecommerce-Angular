@@ -28,12 +28,12 @@ ng serve
 
 <br/>
 
-## Mysql DB
+## Install Mysql Databases
 
 Install xampp and add new database name as "ecommerce_systemdb" and import ecommerce_systemdb.sql
 <br/>
 
-
+## Screenshots:
 
 ![Screenshot 2023-04-04 210712](https://user-images.githubusercontent.com/18195950/229897635-4b8049f0-6f5b-4177-977b-5a6c5a50af02.png)
 ![Screenshot 2023-04-04 210648](https://user-images.githubusercontent.com/18195950/229897641-8572f4e1-0ee8-4af8-bb23-eca3e98bd317.png)
