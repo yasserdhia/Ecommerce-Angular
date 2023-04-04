@@ -5,11 +5,9 @@ Then cd into both directories and run npm install
 
 ```
 cd folder-name
-cd backend
-npm run install
-cd.. // return to folder-name
-cd client
-npm run install
+cd clinet
+npm install
+
 ```
 
 <br/>
