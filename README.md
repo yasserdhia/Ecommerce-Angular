@@ -17,7 +17,7 @@ After the entire installation you need to run the server and the client by runni
 **backend**
 
 ```
-npm run dev
+npm run dev ----or-----   npm dev
 ```
 
 **client**
