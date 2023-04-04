@@ -1,5 +1,5 @@
 
-# Build Ecommerce angular V-15 and node-js V-16.14.2
+# Build Ecommerce angular V-15 with node-js V-16.14.2
 
 Then cd into both directories and run npm install
 
