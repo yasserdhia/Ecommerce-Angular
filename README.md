@@ -1,5 +1,5 @@
 
-# Build Ecommerce angular V-15 and node js V-16.14.2
+# Build Ecommerce angular V-15 and node-js V-16.14.2
 
 Then cd into both directories and run npm install
 
@@ -28,9 +28,8 @@ ng serve
 
 <br/>
 
-## Prerequisites
+## Mysql DB
 
-You will need to have node and npm installed. In addition you will need a MySQL server running in order to have full functionality of the application
-
+Install xampp and add new database name as "ecommerce_systemdb" and import ecommerce_systemdb.sql
 <br/>
 
