@@ -37,7 +37,7 @@ ng serve
 
 <br/>
 
-
+## Step 5: localhost:4200
 <br/>
 
 ## Screenshots:
