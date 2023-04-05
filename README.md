@@ -38,6 +38,7 @@ ng serve
 <br/>
 
 ## Step 5: localhost:4200
+Finally, type “localhost:4200” in your browser, type the following code to access your project dashboard.
 <br/>
 
 ## Screenshots:
