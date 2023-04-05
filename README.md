@@ -5,6 +5,13 @@ This Angular JS Ecommerce Website with MySQL Database project is a fully working
 # Installation steps:
 Then cd into both directories and run npm install
 
+## Step 1: Install NodeJS V-16.14.2
+## Step 2: Install Angular Js
+## Step 3: Install Mysql Databases
+
+Install xampp and add new database name as "ecommerce_systemdb" and import ecommerce_systemdb.sql
+
+## Step 4: Open Command Prompt(CMD)
 ```
 cd folder-name
 cd clinet
@@ -30,9 +37,7 @@ ng serve
 
 <br/>
 
-## Install Mysql Databases
 
-Install xampp and add new database name as "ecommerce_systemdb" and import ecommerce_systemdb.sql
 <br/>
 
 ## Screenshots:
