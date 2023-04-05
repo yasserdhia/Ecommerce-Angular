@@ -1,6 +1,8 @@
 
 # Build Ecommerce angular V-15 with node-js V-16.14.2
+This Angular JS Ecommerce Website with MySQL Database project is a fully working Angular JS …
 
+# Installation steps:
 Then cd into both directories and run npm install
 
 ```
